@@ -15,7 +15,7 @@ Repository for the Neural Networks and Deep Learning Exam Project - Master Degre
   -  `sudo apt install build-essential nvidia-cuda-toolkit`
   - If you are using WSL or other platforms install the CUDA dependencies from the official [website](https://developer.nvidia.com/cuda-toolkit)
 - Create a new python virtual environment in the project direcory:
-  -  `python -m venv venv` 
+  -  `python -m venv .venv` 
 - Activate the virtual environment:
   - `source .venv/bin/activate`
 - Install the required packages: 
