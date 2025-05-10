@@ -1,6 +1,13 @@
-# NNDL
+# PyTorch-MNIST-Classifier
 
-Repository for the Neural Networks and Deep Learning Exam Project - Master Degree Program in Computer Science - University of Naples Federico II (UNINA) 
+A project exploring neural networks and deep learning concepts. This repository contains code for training and evaluating a neural network on the MNIST dataset. Key features include:
+- Data loading, preprocessing, and splitting (train, validation, test).
+- Implementation of a feed-forward neural network using PyTorch.
+- Model training using the Rprop optimization algorithm.
+- Hyperparameter tuning using K-fold cross-validation and random search.
+- Evaluation metrics including accuracy, loss, confusion matrix, and classification report.
+- Early stopping mechanism to prevent overfitting.
+- Visualization of training progress and results.
 
 ## Requirements
 
